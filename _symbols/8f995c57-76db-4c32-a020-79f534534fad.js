@@ -652,14 +652,14 @@ function create_else_block(ctx) {
 			this.h();
 		},
 		h() {
-			attr(h1, "class", "main-title svelte-3gtjot");
-			attr(button0, "class", "workout-button svelte-3gtjot");
-			attr(button1, "class", "workout-button svelte-3gtjot");
-			attr(button2, "class", "workout-button svelte-3gtjot");
-			attr(div0, "class", "workout-buttons svelte-3gtjot");
-			attr(p, "class", "subtitle svelte-3gtjot");
-			attr(div1, "class", "home-content svelte-3gtjot");
-			attr(div2, "class", "home-view svelte-3gtjot");
+			attr(h1, "class", "main-title svelte-1xw5i76");
+			attr(button0, "class", "workout-button svelte-1xw5i76");
+			attr(button1, "class", "workout-button svelte-1xw5i76");
+			attr(button2, "class", "workout-button svelte-1xw5i76");
+			attr(div0, "class", "workout-buttons svelte-1xw5i76");
+			attr(p, "class", "subtitle svelte-1xw5i76");
+			attr(div1, "class", "home-content svelte-1xw5i76");
+			attr(div2, "class", "home-view svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div2, anchor);
@@ -854,29 +854,29 @@ function create_if_block(ctx) {
 		h() {
 			attr(path0, "d", "M19 12H5");
 			attr(path1, "d", "M12 19l-7-7 7-7");
-			attr(svg0, "class", "back-icon svelte-3gtjot");
+			attr(svg0, "class", "back-icon svelte-1xw5i76");
 			attr(svg0, "viewBox", "0 0 24 24");
 			attr(svg0, "fill", "none");
 			attr(svg0, "stroke", "currentColor");
 			attr(svg0, "stroke-width", "2");
-			attr(button0, "class", "back-button svelte-3gtjot");
-			attr(h1, "class", "main-title svelte-3gtjot");
-			attr(div0, "class", "header svelte-3gtjot");
-			attr(h20, "class", "section-title svelte-3gtjot");
+			attr(button0, "class", "back-button svelte-1xw5i76");
+			attr(h1, "class", "main-title svelte-1xw5i76");
+			attr(div0, "class", "header svelte-1xw5i76");
+			attr(h20, "class", "section-title svelte-1xw5i76");
 			attr(path2, "d", "M6 9l6 6 6-6");
-			attr(svg1, "class", "chevron svelte-3gtjot");
+			attr(svg1, "class", "chevron svelte-1xw5i76");
 			attr(svg1, "viewBox", "0 0 24 24");
 			attr(svg1, "fill", "none");
 			attr(svg1, "stroke", "currentColor");
 			attr(svg1, "stroke-width", "2");
 			toggle_class(svg1, "expanded", /*isWarmupExpanded*/ ctx[1]);
-			attr(button1, "class", "warmup-toggle svelte-3gtjot");
-			attr(div1, "class", "warmup-section svelte-3gtjot");
-			attr(h21, "class", "section-title svelte-3gtjot");
-			attr(div2, "class", "exercises svelte-3gtjot");
-			attr(div3, "class", "workout-section svelte-3gtjot");
-			attr(div4, "class", "container svelte-3gtjot");
-			attr(div5, "class", "workout-view svelte-3gtjot");
+			attr(button1, "class", "warmup-toggle svelte-1xw5i76");
+			attr(div1, "class", "warmup-section svelte-1xw5i76");
+			attr(h21, "class", "section-title svelte-1xw5i76");
+			attr(div2, "class", "exercises svelte-1xw5i76");
+			attr(div3, "class", "workout-section svelte-1xw5i76");
+			attr(div4, "class", "container svelte-1xw5i76");
+			attr(div5, "class", "workout-view svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div5, anchor);
@@ -1011,8 +1011,8 @@ function create_if_block_2(ctx) {
 			this.h();
 		},
 		h() {
-			attr(ul, "class", "warmup-list svelte-3gtjot");
-			attr(div, "class", "warmup-content svelte-3gtjot");
+			attr(ul, "class", "warmup-list svelte-1xw5i76");
+			attr(div, "class", "warmup-content svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div, anchor);
@@ -1094,8 +1094,8 @@ function create_each_block_1(ctx) {
 			this.h();
 		},
 		h() {
-			attr(span0, "class", "bullet svelte-3gtjot");
-			attr(li, "class", "warmup-item svelte-3gtjot");
+			attr(span0, "class", "bullet svelte-1xw5i76");
+			attr(li, "class", "warmup-item svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, li, anchor);
@@ -1132,7 +1132,7 @@ function create_if_block_1(ctx) {
 			this.h();
 		},
 		h() {
-			attr(div, "class", "illustration svelte-3gtjot");
+			attr(div, "class", "illustration svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div, anchor);
@@ -1222,13 +1222,13 @@ function create_each_block(ctx) {
 			this.h();
 		},
 		h() {
-			attr(h3, "class", "exercise-title svelte-3gtjot");
-			attr(span0, "class", "sets svelte-3gtjot");
-			attr(span1, "class", "reps svelte-3gtjot");
-			attr(div0, "class", "exercise-sets svelte-3gtjot");
-			attr(div1, "class", "exercise-info svelte-3gtjot");
-			attr(div2, "class", "exercise-content svelte-3gtjot");
-			attr(div3, "class", "exercise-card svelte-3gtjot");
+			attr(h3, "class", "exercise-title svelte-1xw5i76");
+			attr(span0, "class", "sets svelte-1xw5i76");
+			attr(span1, "class", "reps svelte-1xw5i76");
+			attr(div0, "class", "exercise-sets svelte-1xw5i76");
+			attr(div1, "class", "exercise-info svelte-1xw5i76");
+			attr(div2, "class", "exercise-content svelte-1xw5i76");
+			attr(div3, "class", "exercise-card svelte-1xw5i76");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div3, anchor);
@@ -1298,7 +1298,7 @@ function create_fragment(ctx) {
 			this.h();
 		},
 		h() {
-			attr(div, "class", "app svelte-3gtjot");
+			attr(div, "class", "app svelte-1xw5i76");
 			toggle_class(div, "fade-in", /*fadeIn*/ ctx[2]);
 		},
 		m(target, anchor) {
